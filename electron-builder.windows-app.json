@@ -1,0 +1,26 @@
+{
+  "appId": "com.vectortextextruder.desktop",
+  "productName": "2D to 3D",
+  "asar": true,
+  "directories": {
+    "output": "windows app"
+  },
+  "files": [
+    "web app/**/*",
+    "electron/**/*",
+    "package.json"
+  ],
+  "win": {
+    "icon": "build/icons/icon.ico",
+    "signAndEditExecutable": false,
+    "target": [
+      {
+        "target": "portable",
+        "arch": [
+          "x64"
+        ]
+      }
+    ],
+    "artifactName": "2d-to-3d-portable-${version}.${ext}"
+  }
+}

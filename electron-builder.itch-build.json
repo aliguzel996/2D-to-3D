@@ -1,0 +1,35 @@
+{
+  "appId": "com.vectortextextruder.desktop",
+  "productName": "2D to 3D",
+  "asar": true,
+  "directories": {
+    "output": "itch build"
+  },
+  "files": [
+    "web app/**/*",
+    "electron/**/*",
+    "package.json"
+  ],
+  "nsis": {
+    "allowToChangeInstallationDirectory": true,
+    "artifactName": "2d-to-3d-setup-${version}.${ext}",
+    "createDesktopShortcut": true,
+    "installerHeaderIcon": "build/icons/icon.ico",
+    "installerIcon": "build/icons/icon.ico",
+    "oneClick": false,
+    "perMachine": false,
+    "uninstallerIcon": "build/icons/icon.ico"
+  },
+  "win": {
+    "icon": "build/icons/icon.ico",
+    "signAndEditExecutable": false,
+    "target": [
+      {
+        "target": "nsis",
+        "arch": [
+          "x64"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+node_modules/
+dist/
+2D to 3DClaude/
+windows app/win-unpacked/
+itch build/win-unpacked/
+windows app/builder-debug.yml
+itch build/builder-debug.yml
+*.zip
+*.rar
+*.log
+*.tmp
+*.cache
+Thumbs.db
+.DS_Store
