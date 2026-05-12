@@ -22,7 +22,7 @@
   },
   "win": {
     "icon": "build/icons/icon.ico",
-    "signAndEditExecutable": false,
+    "signAndEditExecutable": true,
     "target": [
       {
         "target": "nsis",

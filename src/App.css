@@ -138,9 +138,7 @@
 }
 
 .action-button-strong {
-  background:
-    linear-gradient(135deg, rgba(255, 165, 0, 0.22), rgba(255, 95, 31, 0.28)),
-    rgba(255, 255, 255, 0.05);
+  background: #ffffff;
 }
 
 .source-tabs {

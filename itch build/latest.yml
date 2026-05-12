@@ -1,8 +1,8 @@
 version: 0.1.0
 files:
   - url: 2d-to-3d-setup-0.1.0.exe
-    sha512: 0gc9Ftt7AGUAT1C99nDE0JTzcW62wE8A7SPd+ld2yIJ7RDGBuSJOFKwAUmxqhRomhdDQUfmhwwD6I+xInN82uA==
-    size: 105023562
+    sha512: gQxJcA2FdaGm9HmM1aLA0MFA7+bRXwyrxyjlWLgjKxc2I9ze6ZNDc+n3mIq+EK9NoKlqD/39Mdm/QCYw7NGOQQ==
+    size: 105014514
 path: 2d-to-3d-setup-0.1.0.exe
-sha512: 0gc9Ftt7AGUAT1C99nDE0JTzcW62wE8A7SPd+ld2yIJ7RDGBuSJOFKwAUmxqhRomhdDQUfmhwwD6I+xInN82uA==
-releaseDate: '2026-05-11T02:06:00.452Z'
+sha512: gQxJcA2FdaGm9HmM1aLA0MFA7+bRXwyrxyjlWLgjKxc2I9ze6ZNDc+n3mIq+EK9NoKlqD/39Mdm/QCYw7NGOQQ==
+releaseDate: '2026-05-12T11:48:15.452Z'
